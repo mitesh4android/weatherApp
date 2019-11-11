@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="location">My Location</string>
+    <string name="temp">Temprature</string>
+    <string name="main">Main</string>
+    <string name="desc">Description</string>
+    <string name="humidity">Humidity</string>
+    <string name="error_unable_to_get_response">Oops! Something went wrong...</string>
+    <string name="error_network_unavailable">Unable to access Internet</string>
+</resources>
